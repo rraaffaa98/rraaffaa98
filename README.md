@@ -4,13 +4,13 @@
 - 💞️ conhecimento em processamento digital de imagens e Ocr.
                                     <div align="center">
                                     <a href="https://github.com/rraaffaa98">
-                                    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraaffaa98&layout=compact&langs_count=7&theme=tokyonight"/>
+                                    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraaffaa98&layout=compact&langs_count=7&theme=tokyonight"/>
 
 
 
       Estou aprendendo:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
 
 
