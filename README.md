@@ -2,9 +2,9 @@
 - 👀 Estudo engenharia da computação, na UTFPR-td
 - 🌱 Atualmente estou aprendendo flutter, mas ja trabalhei com python.
 - 💞️ conhecimento em processamento digital de imagens e Ocr.
-                                    <div>
+                                    <div align="center">
                                     <a href="https://github.com/rraaffaa98">
-                                    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraaffaa98&layout=compact&langs_count=7&theme=tokyonight"/>
+                                    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraaffaa98&layout=compact&langs_count=7&theme=tokyonight"/>
 
 
 
