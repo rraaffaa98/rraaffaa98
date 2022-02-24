@@ -1,5 +1,4 @@
-- 👋 Olá,bem vindo ao meu perfil no gjit. Meu nome é Rafaela Louise.
-- 👀 Estudo engenharia da computação, na UTFPR-td
+- 👋 Olá,bem vindo ao meu perfil no git. Meu nome é Rafaela Louise.
 - 🌱 Atualmente estou aprendendo flutter, mas ja trabalhei com python.
 - 💞️ conhecimento em processamento digital de imagens e Ocr.
         
