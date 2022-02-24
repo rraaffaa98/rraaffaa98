@@ -4,7 +4,7 @@
 - 💞️ conhecimento em processamento digital de imagens e Ocr.
                                         <div>
                                         <a href="https://github.com/rraaffaa98">
-                                        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?       username=rraaffaa98&layout=compact&langs_count=7&theme=dracula$locale=pt"/>
+                                        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?       username=rraaffaa98&layout=compact&langs_count=7&theme=dracula&loxale=pt"/>
 
 
       Estou aprendendo:
