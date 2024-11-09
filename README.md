@@ -1,6 +1,6 @@
 - 👋 Olá,bem vindo ao meu perfil no git. Meu nome é Rafaela Louise.
-- 🌱 Atualmente estou aprendendo flutter, mas ja trabalhei com python.
-- 💞️ conhecimento em processamento digital de imagens e Ocr.
+- 🌱 Atualmente estou estudando visão computacional e Machine Learning.
+- 💞️ Possuo conhecimento em processamento digital de imagens e Ocr.
         
 
 
